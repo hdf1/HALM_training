@@ -1,0 +1,6 @@
+c:
+cd C:\Users\d021798\workspaceNew\ProductInstaller\alm
+git pull
+
+mvn clean install 
+	[a. für erzeugung jar...]
